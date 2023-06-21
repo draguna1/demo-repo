@@ -4,4 +4,4 @@ description
 
 # Subheader
 
-Whatch tutorial on YouTube
+Watch tutorial on YouTube
